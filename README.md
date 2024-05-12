@@ -1,6 +1,6 @@
 # NOTE
 
-*This project is currently archived. The relevant API:s and libraries are constantly shifting, and I don't have time to keep up.*
+*This project is built from an archived version of https://github.com/cycneuramus/signal-aichat.*
 
 ---
 
